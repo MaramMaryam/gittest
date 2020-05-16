@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-sss
-Hello Merry!
-=======
-Hello Merry!
-I am Tina
->>>>>>> Stashed changes
